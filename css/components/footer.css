@@ -1,0 +1,29 @@
+.footer {
+  background-color: rgb(3, 14, 54);
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+  padding: 30px;
+}
+
+.footer .list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.footer .list-inline li {
+  display: inline-block;
+  padding: 0 16px;
+}
+
+.footer .list-inline li a {
+  display: inline-block;
+  padding: 0 16px;
+  padding: 4px;
+  font-size: 40px;
+  color: white;
+}
+
+.footer p {
+  letter-spacing: 4px;
+}
